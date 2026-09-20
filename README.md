@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=550&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Muhammad+Haseeb+Ahmad;AI+%26+NLP+Developer;Building+Smart+Generative+AI+Apps;Python+%C2%B7+Machine+Learning+%C2%B7+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=550&height=50&lines=Welcome!+I'm+Muhammad+Haseeb+Ahmad;AI+%26+NLP+Developer;Specializing+in+LLMs+%26+RAG;Python+%C2%B7+PyTorch+%C2%B7+Hugging+Face;Building+Intelligent+AI+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -51,15 +51,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📈 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseebahmed9814-design&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Haseeb's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebahmed9814-design&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" height="170" />
 </p>
 
 ---
