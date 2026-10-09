@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=C41E3A&center=true&vcenter=true&width=620&height=50&lines=Welcome!+I'm+Muhammad+Haseeb+Ahmad;AI+%26+NLP+Developer+%7C+LLM+%26+RAG+Specialist;Architecting+Intelligent+AI+Web+Systems;Building+the+Future+with+Code+%26+Innovation;Transforming+Complex+AI+into+Impactful+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=C41E3A&center=true&vcenter=true&width=700&height=50&lines=Welcome!+I'm+Muhammad+Haseeb+Ahmed;AI+Engineer+%7C+Machine+Learning+%26+Deep+Learning;Architecting+Intelligent+AI+Systems;Building+the+Future+with+Code+%26+Innovation;Transforming+Complex+AI+into+Impactful+Solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <b>🤖 AI & NLP Developer | 🌐 Python & Intelligent Systems | 📍 Pakistan</b>
+  <b>🤖 AI Engineer | 🌐 Python & Intelligent Systems | 📍 Pakistan</b>
 </p>
 
 <p align="center">
-  <i>"Transforming complex AI & NLP algorithms into intelligent, user-ready web applications."</i>
+  <i>"Transforming complex AI algorithms into intelligent, user-ready applications."</i>
 </p>
 
 ---
